@@ -1,6 +1,0 @@
-Started POST "/inventory/reserve" for 127.0.0.1 at 2025-12-11 00:19:01 -0800
-Processing by InventoryController#reserve as */*
-  Parameters: {"order_id"=>"1"}
-Completed 201 Created in 10ms (Views: 0.3ms | Allocations: 9039)
-
-

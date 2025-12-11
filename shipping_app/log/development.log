@@ -1,6 +1,0 @@
-Started POST "/shipping/create" for 127.0.0.1 at 2025-12-11 00:19:01 -0800
-Processing by ShippingController#create as */*
-  Parameters: {"order_id"=>"1"}
-Completed 201 Created in 11ms (Views: 0.3ms | Allocations: 9008)
-
-
